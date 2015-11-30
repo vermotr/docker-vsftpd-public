@@ -4,14 +4,14 @@ This is a Dockerfile to set up an anonymous FTP server with vsftpd.
 
 Build from docker file:
 ```
-git clone git@github.com:4z3rty/docker-vsftpd-public.git
+git clone git@github.com:vermotr/docker-vsftpd-public.git
 cd docker-vsftpd-public
 docker build -t vsftpd-public .
 ```
 
 You can also obtain it via:
 ```
-docker pull 4z3rty/vsftpd-public
+docker pull vermotr/vsftpd-public
 ```
 
 Instructions to run:
